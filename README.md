@@ -1,2 +1,2 @@
 # reactjs_form
-This is a login form using reactjs
+This is a registration form using reactjs
