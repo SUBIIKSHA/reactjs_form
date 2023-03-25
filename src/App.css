@@ -1,0 +1,39 @@
+body {
+  background: rgb(211, 201, 213);
+  background-color: rgb(122, 233, 192);
+
+}
+
+.container {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  max-width: 1500px;
+  width: 100%;
+  margin: auto;
+}
+.container > form {
+  width: 40%;
+  border: 10px solid #024f0a;
+  padding-left: 100px;
+  padding-right: 100px;
+  border-radius: 5px;
+  background: rgb(221, 153, 89);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+
+
+button {
+  background: #b40531 !important;
+}
+p {
+  color: rgb(168, 49, 49);
+}
+h1 {
+ color: #150543;
+ text-align: center;
+ font-style: italic;
+}
